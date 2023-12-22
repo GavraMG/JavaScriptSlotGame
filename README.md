@@ -1,8 +1,8 @@
-# 🐍 Java Snake Game
+# 🎰 JavaScript Slot Game
 
 <p align="center">
   
- <img width="700" alt="Screen Shot 2023-06-11 at 9 48 06 PM" src="https://github.com/GavraMG/JavaPingPongGame/assets/145468935/c061dfba-13cb-4570-88c0-4d5c5dccb4b4">
+ <img width="700" alt="Screen Shot 2023-06-11 at 9 48 06 PM" src="https://github.com/GavraMG/LandscapingWebsite/assets/145468935/6f9690f8-1deb-432d-9eef-8d83c9dc4617">
 
 </p>
 
@@ -15,15 +15,17 @@
 
 <br/>
 
-## About My Game
-In Grade 12, I harnessed the power of Java in my classroom to recreate the iconic Snake game. This project was aim to try to use the knowledge that I learn so far in java to create a simple and enjoyable game that everyone knows about. It's designed to provide a fun and interactive experience, highlighting basic game mechanics like collision detection, scorekeeping, and user input handling. Using my growing programming skills to build this game while also as a personal challenge to elevate a timeless classic with code.
+## ⚙️ About My Game
+This JavaScript-based Slot Machine game, was developed as a learning project to consolidate my understanding of user interaction and randomization in programming. Designed to mimic the thrill of a casino experience, this game incorporates user input validation and generates random slot results, simulating the unpredictability of a real slot machine.
 <br/>
 
 ## 🚀 Features
 
-- **Intuitive User Interface:** Designed for simplicity and ease of use, ensuring that the game is approachable for players of all ages.
-- **Progressive Gameplay Mechanics:** With each fruit the snake consumes, the difficulty escalates, demanding sharper reflexes and strategic movement.
-- **Scoreboard System:** A robust scoring mechanism that not only tracks your current score but also remembers your personal best, encouraging players to beat their own records.
+- **Realistic Casino Feel:** Every aspect of the game, from the spinning reels to the sounds, is crafted to create an authentic slot machine atmosphere.
+- **User Input Verification:** Robust input validation ensures that bets are within acceptable ranges and the user's balance is accurately tracked.
+- **Randomized Outcomes:** Utilizes JavaScript's Math functions to produce random slot combinations, ensuring fair play and excitement with every spin.
+- **Dynamic Betting System:** Players can adjust their bet per line and the number of lines they want to play, offering control over their gaming strategy.
+- **Balance Management:** The game tracks the player's balance across sessions, allowing for an ongoing gaming experience.
 
 <br/>
 
@@ -31,7 +33,8 @@ In Grade 12, I harnessed the power of Java in my classroom to recreate the iconi
 
 This game uses: 
 
-- **Java:** The core programming language used to build the game's logic and interface.
+- **Javascript:** The core of the game's functionality, handling game logic, user interactions, and random number generation.
+- **Node.js:** The runtime environment used for executing the game outside of the browser during development.
 
 <br/>
 
