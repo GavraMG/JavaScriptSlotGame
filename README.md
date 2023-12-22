@@ -38,7 +38,7 @@ This game uses:
 
 <br/>
 
-## Contact
+## ✉️ Contact
 
 Got any question? feel free to reach out!
 
